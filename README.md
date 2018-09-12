@@ -37,7 +37,7 @@
 选择ISO
   ubuntu-14.04.5-desktop-amd64
 选择 U:\
-  勾选 Fat32 Format
+  勾选 Format
 Create
   是
 ```
