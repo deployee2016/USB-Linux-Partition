@@ -42,7 +42,7 @@ Create
   是
 ```
 
-5.恢复分区(使用DiskGenius)
+4.恢复分区(使用DiskGenius)
 ```
 选择U盘 + 选择空闲 + 新建分区
   主分区
